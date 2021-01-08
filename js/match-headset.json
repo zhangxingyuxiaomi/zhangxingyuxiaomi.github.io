@@ -1,0 +1,52 @@
+
+    [
+        {
+            "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7d9e8308f5f55bfa69c5c7fadc7cb4aa.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+            "mobile":"Redmi AirDots 2真无线蓝牙耳机",
+            "deploy":" 支持蓝牙5.0，自动秒连，拿起就能用",
+            "price":"99元",
+            "parity":""
+        },
+        {
+            "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c6306bf6d8aede9f6f48d8e4d9256db2.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+            "mobile":"小米真无线蓝牙耳机Air 2s",
+            "deploy":"全面升级，智慧真无线",
+            "price":"399元",
+            "parity":""
+        },
+        {
+            "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/faf8668acb2fd80c0afad4d4c4e837ad.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+            "mobile":"小米降噪项圈蓝牙耳机",
+            "deploy":"无线降噪，静无止境",
+            "price":"399元",
+            "parity":"499元"
+        },
+        {
+            "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8b619d27877bbc497468c673a317a847.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+            "mobile":"小米小爱音箱 Pro",
+            "deploy":"语音遥控5000+品牌主流家电",
+            "price":"299元",
+            "parity":""
+        },
+        {
+            "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1ab7943ae5215e0faacb04f7270d9cfb.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+            "mobile":"小米小爱音箱 Art 电池版",
+            "deploy":"不插电，让音乐更自由",
+            "price":"399元",
+            "parity":""
+        },
+        {
+            "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1c278ccaa2a2b7e0ab9b294a3a0ec32b.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+            "mobile":"小米小爱音箱 Art",
+            "deploy":"极光下的声音艺术",
+            "price":"349元",
+            "parity":""
+        },
+        {
+            "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e13900c094ae4ac4eb53b35f2d0c95b0.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+            "mobile":"小米小爱音箱",
+            "deploy":"全面升级 旗舰音质",
+            "price":"249元",
+            "parity":"269元"
+        }
+    ]

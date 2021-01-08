@@ -1,0 +1,51 @@
+[
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/011dd8493ad62f3793dbb63d9fbd3bc0.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米「小爱老师」",
+        "deploy":"英语提分利器",
+        "price":"999元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e7c6e79433c883e1a022ec21402c1679.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米小爱音箱Play",
+        "deploy":"听音乐、语音遥控家电",
+        "price":"99元",
+        "parity":"169元"
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3accd497afc0047cfbd40f442e3b17df.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"米家智能窗帘",
+        "deploy":"窗帘开合随心控",
+        "price":"799元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/550177d2e54387521bce9e78cb2949dd.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米体脂秤2",
+        "deploy":"轻松掌握身体脂肪率",
+        "price":"99元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/T1r_x_BgLT1RXrhCrK.jpg?thumb=1&w=200&h=200",
+        "mobile":"九号平衡车",
+        "deploy":"年轻人的酷玩玩具",
+        "price":"1999元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5a312d69c1a5447c9e3d14d42d01a8fb.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米智能门锁 推拉式",
+        "deploy":"一步推拉，高端智能门锁",
+        "price":"1699元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/49f30069c778b494257320d9da5a1a60.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"Redmi小爱触屏音箱 8英寸",
+        "deploy":"超大屏，让智能更多可能",
+        "price":"349元",
+        "parity":""
+    }
+]

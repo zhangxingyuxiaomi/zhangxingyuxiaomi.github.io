@@ -1,0 +1,51 @@
+[
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5fc35cf0af915a9e60f5d4ea220521ab.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米真无线蓝牙耳机Air 2 Pro",
+        "deploy":" 主动降噪/持久续航/无线充",
+        "price":"699元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"高速无线充套装",
+        "deploy":"快速无线闪充，Qi充电标准",
+        "price":"149元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7d9e8308f5f55bfa69c5c7fadc7cb4aa.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"Redmi AirDots 2真无线蓝牙耳机",
+        "deploy":"支持蓝牙5.0，自动秒连，拿起就能用",
+        "price":"99元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c6306bf6d8aede9f6f48d8e4d9256db2.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米真无线蓝牙耳机Air 2s",
+        "deploy":"全面升级，智慧真无线",
+        "price":"399元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ea8e42faebf7d76a4cb42b8930cf9e46.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"Redmi充电宝 10000mAh 标准版 白色",
+        "deploy":"10000mAh大电量 ",
+        "price":"59元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/eaf70e0e9905de6452f07b1f48fcc386.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"Redmi充电宝 20000mAh 快充版",
+        "deploy":"大容量,  可上飞机",
+        "price":"99元",
+        "parity":""
+    },
+    {
+        "img":"https://i8.mifile.cn/v1/a1/5dd69c0a-8f4a-b42f-d840-6c5a47f2cd03!200x200.jpg",
+        "mobile":"小米插线板 5孔位",
+        "deploy":"多重安全保护",
+        "price":"39元",
+        "parity":""
+    }
+]

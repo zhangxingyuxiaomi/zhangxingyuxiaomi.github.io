@@ -1,0 +1,51 @@
+[
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f8fde8a877fd4b12ad88119d9b6bc061.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米氮化镓GaN充电器 Type-C 65W",
+        "deploy":"氮化镓黑科技 65W MAX 大功率快充",
+        "price":"149元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"高速无线充套装",
+        "deploy":"快速无线闪充，Qi充电标准",
+        "price":"149元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1f32af53d1ad60f4980146f6a2b81019.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米无线充电宝青春版10000mAh",
+        "deploy":"能量满满，无线有线都能充",
+        "price":"129元",
+        "parity":""
+    },
+    {
+        "img":"https://i8.mifile.cn/v1/a1/b0ded71f-b235-8f99-ba1c-20f80c3a4231!200x200.jpg",
+        "mobile":"米家LED随身灯",
+        "deploy":"小巧轻便 5级亮度调节",
+        "price":"19.9元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/01dba858b327eeeadf34ce8a1d794ed4.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米车载充电器快充版",
+        "deploy":"双口快充，安全稳定",
+        "price":"69元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4b3bff030170ad1a07dfb50311352c9.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米USB充电器65W 快充版（2A1C）",
+        "deploy":"超级快充，三台设备同时充",
+        "price":"99元",
+        "parity":"149元"
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/573e9cb39b0d8c7f2cd063621142fe44.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米Type-C转Lightning数据线 1m",
+        "deploy":"苹果MFi官方认证，支持快充",
+        "price":"59元",
+        "parity":""
+    }
+]

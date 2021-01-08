@@ -1,0 +1,51 @@
+[
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f33baec53cc73e2942277640ba6e710.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"米家智能门锁 标准锁体 碳素黑",
+        "deploy":"一体化活体指纹识别，多种开锁方式",
+        "price":"1199元",
+        "parity":"1299元"
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1840f64ea310ca8013385885baaf16a8.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"米家智能门锁 标准锁体 磨砂金",
+        "deploy":"全新磨砂金配色，精湛工艺升级",
+        "price":"1199元",
+        "parity":"1499元"
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0baacf6e54cbf89cab2c543cc02344e9.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"米家智能门锁 推拉式 通用版",
+        "deploy":"一步推拉，高端智能门锁",
+        "price":"1699元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0245498a0e08b87ba8c323871c5d48bc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"米家智能门锁 青春版",
+        "deploy":"隐形指纹识别设计 简单一步快进家门",
+        "price":"899元",
+        "parity":"999元"
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e83e1ab5947337d7b631e056b3e0f23d.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"米家智能门锁 霸王锁体 碳素黑",
+        "deploy":"一体化活体指纹识别，多种开锁方式",
+        "price":"1599元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fa7cdb455f106da904e8c3f6156abc06.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"米家智能门锁 霸王锁体 磨砂金",
+        "deploy":"适配霸王锁体，多种开锁方式",
+        "price":"1799元",
+        "parity":""
+    },
+    {
+        "img":"https://i8.mifile.cn/b2c-mimall-media/98c51f977ac5b590dbaf7b8445b30fa6!200x200.jpg",
+        "mobile":"小米米家小白智能摄像机增强版",
+        "deploy":"智能看护， AI你所爱",
+        "price":"399元",
+        "parity":""
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f8fde8a877fd4b12ad88119d9b6bc061.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米氮化镓GaN充电器 Type-C 65W",
+        "deploy":"氮化镓黑科技 65W MAX 大功率快充",
+        "price":"149元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/15ac53312f850bfcc73bdc5a185fda8a.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米立式风冷无线充 30W",
+        "deploy":"解锁充电新姿势",
+        "price":"199元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bb115b0d5e6cc24c39c1ae818b63bf1a.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"小米立式无线充电器 通用快充20W",
+        "deploy":"横竖可充，迅速感应边充边玩",
+        "price":"99元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "mobile":"米家智能插座蓝牙网关版",
+        "deploy":"让传统家电变智能",
+        "price":"79元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/554198af-55ec-8400-7a04-66a8f3e0dd66.jpg?thumb=1&w=200&h=200",
+        "mobile":"米家插线板6位基础版（含3口USB 2A快充",
+        "deploy":"小巧设计，便捷不占地儿",
+        "price":"79元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d6484113b03acde1672d50c395c09763.jpg?thumb=1&w=200&h=200",
+        "mobile":"小米插线板（含3口USB 2A快充）",
+        "deploy":"3个USB充电口，支持快充",
+        "price":"49元",
+        "parity":""
+    },
+    {
+        "img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9adc2a937362ccd910616a277923aa43.jpg?thumb=1&w=200&h=200",
+        "mobile":"小米米家智能插座WiFi版",
+        "deploy":"让普通电器变智能",
+        "price":"49元",
+        "parity":""
+    }
+]

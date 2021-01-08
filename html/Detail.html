@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>详情页</title>
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/iconfont.css">
+    <link rel="stylesheet" href="../css/Detail.css">
+</head>
+
+<body>
+    <!-- 头部 -->
+    <div id="header">
+
+        <!-- 导航 -->
+        <div id="nav">
+            <div class="common nav-inner">
+                <div class="left-nav">
+                    <a href="#">小米商城</a>
+                    <span>|</span>
+                    <a href="#">MIUI</a>
+                    <span>|</span>
+                    <a href="#">loT</a>
+                    <span>|</span>
+                    <a href="#">云服务</a>
+                    <span>|</span>
+                    <a href="#">天星数科</a>
+                    <span>|</span>
+                    <a href="#">有品</a>
+                    <span>|</span>
+                    <a href="#">小爱开放平台</a>
+                    <span>|</span>
+                    <a href="#">企业团购</a>
+                    <span>|</span>
+                    <a href="#">资质证照</a>
+                    <span>|</span>
+                    <a href="#">协议规则</a>
+                    <span>|</span>
+                    <a href="#" class="download">下载app
+                        <i class="before"></i>
+                        <span class="download-img">
+                            <img src="https://i1.mifile.cn/f/i/17/appdownload/download.png?1" alt="下载" width="90px"
+                                height="90px">
+                            小米商城下载
+                        </span>
+                    </a>
+                    <span>|</span>
+                    <a href="#">智能生活</a>
+                    <span>|</span>
+                    <a href="#">Select Location</a>
+                </div>
+                <div class="right-nav">
+                    <a href="#">
+                        <em class="iconfont icon-gouwuchekong"></em>
+                        购物车
+                        <span>(0)</span>
+                    </a>
+                    <div class="shopp-inner">
+                        <span>购物车中还没有商品，赶紧选购吧！</span>
+                    </div>
+                    <div class="loading">
+                        <div class="loading-inner">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="cneter-nav">
+                    <span class="user">
+                        <a href="#" class="user-name">
+                            <span class="name">用户名</span>
+                            <i class="iconfont icon-youjiantou1"></i>
+                        </a>
+                    </span>
+                    <span class="sep">|</span>
+                    <span class="message">
+                        <a href="#">
+                            消息通知
+                        </a>
+                    </span>
+                    <span class="sep">|</span>
+                    <a href="#" class="link-order">
+                        我的订单
+                    </a>
+                    </span>
+                </div>
+            </div>
+
+        </div>
+        <!-- 底部导航 -->
+        <div id="header-bottom">
+            <div class="common header-bottom-inner">
+                <div class="header-log">
+                    <a href="#" title="小米官网">小米官网</a>
+                </div>
+                <div class="header-nav">
+                    <ul class="header-nav-u">
+                        <li class="nav-commodity nav-item">
+                            <a href="#"><span>全部商品分类</span></a>
+                        </li>
+                        <li class="nav-item"><a href="#"><span>小米手机</span></a></li>
+                        <li class="nav-item"><a href="#"><span>Redmi红米</span></a></li>
+                        <li class="nav-item"><a href="#"><span>电视</span></a></li>
+                        <li class="nav-item"><a href="#"><span>笔记本</span></a></li>
+                        <li class="nav-item"><a href="#"><span>家电</span></a></li>
+                        <li class="nav-item"><a href="#"><span>路由器</span></a></li>
+                        <li class="nav-item"><a href="#"><span>智能硬件</span></a></li>
+                        <li class="nav-item"><a href="#"><span>服务</span></a></li>
+                        <li class="nav-item"><a href="#"><span>社区</span></a></li>
+                    </ul>
+                </div>
+                <div class="header-Search">
+                    <form action="#">
+                        <a href="#"><input type="text" class="search-text" placeholder="小米10"></a>
+                        <a href="#" class="search-sub iconfont icon-sousuo"></a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+        <!-- 中间详情 -->
+        <div class="mian">
+            <div class="common mian-inner">
+                <div id="img-left">
+                    <div id="small" code = "1">
+                        <!-- 小图片所在的盒子 -->
+                        <img  class="picter"  src="https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606288963.72951431.jpg"
+                            alt="" style="width: 400px; height: 400px;" />
+                        <div id="mask"></div><!-- 遮罩层:175*175 -->
+                    </div>
+                    <div id="big">
+                        <!-- 大图片所在的盒子:450*450 -->
+                        <img id="bigImg"
+                            src="https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606288963.72951431.jpg"
+                            alt="" id="bigImg" />
+                    </div>
+                </div>
+                <div class="mian-right">
+                    <h2>Note 9 5G</h2>
+                    <p class="sale-desc">天玑 800U处理器 / 4800万像素主摄 / 6.53英寸超高清小孔全面屏 / 小金刚品质 / 5000mAh+18W快充 / 双5G待机 /
+                        侧边指纹识别 / 线性马达 / 红外遥控</p>
+                    <p class="company-info">小米自营</p>
+                    <div class="price-info">
+                        <span>1299元</span>
+                    </div>
+                    <!--  -->
+                    <div data-v-101 class="line"></div>
+                    <!--  -->
+                    <div class="buy-option">
+                        <div class="buy-box-child">
+                            <div data-v-105 class="title">选择版本</div>
+                            <ul class="clearfix">
+                                <li data-v-110="110" class="active">
+                                    <a data-v-110 href="javascript:void(0)" >6GB+128GB</a>
+                                </li>
+                                <li data-v-110 = "111" >
+                                    <a href="javascript:void(0)">8GB+128GB</a>
+                                </li>
+                                <li data-v-110 = "112" >
+                                    <a href="javascript:void(0)">8GB+256GB</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="buy-box-child">
+                            <div data-v-105 class="title">选择颜色</div>
+                            <ul class="clearfix">
+                                <li data-v-110 ="113" class="active">
+                                    <a data-v-110 href="javascript:void(0)">流影紫</a>
+                                </li>
+                                <li data-v-110 ="114" >
+                                    <a href="javascript:void(0)">云墨灰</a>
+                                </li>
+                                <li data-v-110 ="115" >
+                                    <a href="javascript:void(0)">青山外</a>
+                                </li>
+                            </ul>
+                        </div>
+                       
+                    </div>
+                    <!--  -->
+                    <div class="selected-list">
+                        <ul>
+                            <li data-v-120>
+                                 
+                                <span data-v-title="130">Redmi Note 9 5G 6GB+128GB 流影紫</span>
+                                <i data-y>元</i><span data-v-121>1299</span>
+                            </li>
+                        </ul>
+                        <div class="total-price">总计:1299元</div>
+                    </div>
+                    <!--  -->
+                    <div class="btn-box">
+                        <div class="sale-btn">
+                            <a href="#" class="btn-primar">加入购物车</a>
+                        </div>
+                        <div class="sale-btn">
+                            <a href="#" class="btn-orders">立即下单</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 弹出框 -->
+        <div class="popover">
+                <h2>Note 9 5G</h2>
+                <p class="sale-desc">天玑 800U处理器 / 4800万像素主摄 / 6.53英寸超高清小孔全面屏 / 小金刚品质 / 5000mAh+18W快充 / 双5G待机 /
+                    侧边指纹识别 / 线性马达 / 红外遥控</p>
+            <a href="#" class="del-x">X</a>
+            <a href="./cart.html" class="settlement">立即结算</a>
+                    
+        </div>
+ <!-- 放大镜 -->
+        <script src="../js/public.js"></script>
+        <script>
+            //获取相关元素
+            var smallBox = $id('small');//小盒子
+            var bigBox = $id('big');//大盒子
+            var mask = $id('mask');//遮罩层
+            var box = $id('img-left');//总容器
+            var bigImg = $id('bigImg');//大图片
+            //1.鼠标移入small,big显示,mask显示
+            smallBox.onmouseenter = function () {
+                bigBox.style.display = "block";
+                mask.style.display = "block";
+            }
+            //2 mask跟着鼠标移动，鼠标在mask中心位置
+            smallBox.onmousemove = function (e) {
+                e = e || window.event;
+                //求出鼠标距离small的距离
+                var left = e.clientX + getScroll().left - box.offsetLeft;
+                var top = e.clientY + getScroll().top - box.offsetTop;
+                //鼠标再mask中心，减去mask宽高的一半
+                left = left - mask.offsetWidth / 2;
+                top = top - mask.offsetHeight / 2;
+                //边界监测
+                if (left < 0) {
+                    left = 0
+                }
+                if (left > smallBox.offsetWidth - mask.offsetWidth) {
+                    left = smallBox.offsetWidth - mask.offsetWidth;
+                }
+                if (top < 0) {
+                    top = 0;
+                }
+                if (top > smallBox.offsetHeight - mask.offsetHeight) {
+                    top = smallBox.offsetHeight - mask.offsetHeight;
+                }
+                //定位mask
+                mask.style.left = left + "px";
+                mask.style.top = top + "px";
+                // 3 mask对应的大图位置显示
+                // left/350 = 大图左移的距离/800
+                // top/350 = 大图上移的距离/800
+                var x = left / smallBox.offsetWidth * bigImg.offsetWidth;
+                var y = top / smallBox.offsetHeight * bigImg.offsetHeight;
+
+                bigImg.style.marginLeft = -x + "px";
+                bigImg.style.marginTop = -y + "px";
+            }
+            //4 鼠标移出small,big隐藏,mask隐藏
+            smallBox.onmouseleave = function () {
+                bigBox.style.display = "none";
+                mask.style.display = "none";
+            }
+
+        </script>
+<!--  -->
+    <script src="../js/jquery1.12.4.min.js"></script>
+    <script>
+
+   
+         /* 
+            点击data-v-11x 加class active     
+         */
+    $('li[data-v-110 = "110"]').click(function(){
+        $(this).addClass('active')
+        $('li[data-v-120]').html(` <span data-v-title="130">Redmi Note 9 5G 6GB+128GB 流影紫</span><i data-y>元</i><span data-v-121>1200</span>`)
+        $('.total-price').html('总计:1200元')
+        $('li[data-v-110 = "111"]').removeClass('active')
+        $('li[data-v-110 = "112"]').removeClass('active')
+      
+    })
+    $('li[data-v-110 = "111"]').click(function(){
+        $(this).addClass('active')
+        $('li[data-v-120]').html(` <span data-v-title="130">Redmi Note 9 5G 8GB+128GB 流影紫</span>
+            <i data-y>元</i><span data-v-121>1299</span>`)
+        $('.total-price').html('总计:1299元')
+        $('li[data-v-110 = "110"]').removeClass('active')
+        $('li[data-v-110 = "112"]').removeClass('active')
+    })
+    $('li[data-v-110 = "112"]').click(function(){
+        $(this).addClass('active')
+        $('li[data-v-120]').html(` <span data-v-title="130">Redmi Note 9 5G 8GB+256GB 流影紫</span>
+            <i data-y>元</i><span data-v-121>1699</span>`)
+        $('.total-price').html('总计:1699元')
+        $('li[data-v-110 = "111"]').removeClass('active')
+        $('li[data-v-110 = "110"]').removeClass('active')
+    })
+    /* 
+        点击data-v-110 ="113" active 
+    */
+   $('li[data-v-110="113"]').click(function(){
+       $(this).addClass('active');
+       $('span[data-v-title="1"]').text("流影紫")
+       $('li[data-v-110="114"]').removeClass('active')
+       $('li[data-v-110="115"]').removeClass('active')
+   })
+   $('li[data-v-110="114"]').click(function(){
+       $(this).addClass('active');
+       $('span[data-v-title="2"]').text("云墨灰")
+       $('li[data-v-110="113"]').removeClass('active')
+       $('li[data-v-110="115"]').removeClass('active')
+   })
+   $('li[data-v-110="115"]').click(function(){
+       $(this).addClass('active');
+       $('span[data-v-title="3"]').text("青山外")
+       $('li[data-v-110="114"]').removeClass('active')
+       $('li[data-v-110="113"]').removeClass('active')
+   })
+   //点击del-x
+   $('.del-x').on('click',function(){
+    $('.popover').css('display','none')
+   })
+//   点击加入购物车
+    $('.btn-primar').on('click',function(){
+        var num = 1;
+        var price = $('span[data-v-121]').text();
+        var text= $('span[data-v-title="130"]').text()
+        var img =$('.picter').attr('src')
+        var code = $('#small').attr('code')
+        var total = num*price;
+   
+        //数据存储
+        var metadata = {
+            num : num,
+            price : price,
+            text : text,
+            img : img,
+            code : code,
+            total : total
+        };
+        $('.popover').css('display','block')
+        var  zhang = [];
+        
+       if(localStorage.getItem('zhang')){
+           zhang=JSON.parse(localStorage.getItem('zhang'));
+           var falg =true;
+           zhang.forEach(function(item,index){
+               if(metadata.code==item.code){
+                   metadata.num=metadata.num+item.num;
+                   metadata.total=metadata.total+item.total;
+                   zhang.splice(index,1,metadata);
+                   zhang=JSON.stringify(zhang);
+                   localStorage.setItem('zhang',zhang);
+                   falg=false;
+                   return;
+               }
+           });
+           if(falg){
+               //zhang里面没有这个商品
+               zhang.push(metadata);
+               zhang=JSON.stringify(zhang);
+               localStorage.setItem('zhang',zhang);
+           }
+
+       }else{
+           zhang.push(metadata);
+           zhang=JSON.stringify(zhang);
+           localStorage.setItem('zhang',zhang);
+       }
+       return false;
+
+
+    })
+
+   
+        
+    </script>
+</body>
+</html>
