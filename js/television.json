@@ -1,27 +1,98 @@
-[
-    {"name":"小米透明电视 " ,"print":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/37576cef378ef2805c20b9ab2a9d6d3d.png"},
-    {"name":"小米电视5 Pro 55英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/942d4f28d406f3946f0ce551c125c641.png"},
-    {"name":"小米电视5 65英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d8264eb9b900ead63eea69f6fc1e413a.png"},
-    {"name":"Redmi 智能电视 A系列 " ,"print":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/93b55d27cd6e2100c25611eb828396ae.png"},
-    {"name":"量子点电视" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/da1680fb62238cb5b01998d80fc34e25.png"},
-    {"name":"Redmi 智能电视 X系列 " ,"print":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/070b329c18c1ab167df2a42564a67813.png"},
-    {"name":"小米电视大师 82英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b8f12c8d20878e88b66047ef32566e48.png"},
-    {"name":"小米电视5 Pro 65英寸 " ,"print":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d096389e19ba6b79b324b7d0acfab7ca.png"},
-    {"name":"小米电视5 55英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png"},
-    {"name":"小米全面屏电视E43K" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/319700f48d268f522664e1fc876b0044.png"},
-    {"name":"金属全面屏电视 " ,"print":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d219d8b9c4a74eda4ae6c0222d194cd2.png"},
-    {"name":"小米盒子 " ,"print":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/554a4f8ea0c2c3ed19d843bea7321203.jpg"},
-    {"name":"大师电视 65英寸 OLED " ,"print":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png"},
-    {"name":"小米电视5 Pro 75英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/da1680fb62238cb5b01998d80fc34e25.png"},
-    {"name":"小米电视4A 60英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1df560d16cc983b0f34d24fc484bd697.png"},
-    {"name":"Redmi 智能电视 X55" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/070b329c18c1ab167df2a42564a67813.png"},
-    {"name":"小米全面屏电视 " ,"print":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8aeae36f5d088f22c84b8953bd0d08b4.jpg"},
-    {"name":"电视音箱" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/381acfeddeebcce4720ea7b8e481252f.png"},
-    {"name":"Redmi 智能电视MAX98","print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d649ec3d7d14da7090e396d56b7cc92.jpg"},
-    {"name":"小米电视5 75英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png"},
-    {"name":"小米电视4A 70英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6797917392e912577135d9eb8ad92f1f.png"},
-    {"name":"小米电视4S 75英寸" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8cb5791161d8b25897f60385f0ec7ab2.png"},
-    {"name":"小米壁画电视 " ,"print":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5732e8f317eb86bfcb174fbb49d00c4a.jpg"},
-    {"name":"激光投影电视" ,"print":" https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4fa264c15d3829e6de4283a552651e22.png"}
+[{
+        "name": "小米透明电视 ",
+        "print": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/37576cef378ef2805c20b9ab2a9d6d3d.png"
+    },
+    {
+        "name": "小米电视5 Pro 55英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/942d4f28d406f3946f0ce551c125c641.png"
+    },
+    {
+        "name": "小米电视5 65英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d8264eb9b900ead63eea69f6fc1e413a.png"
+    },
+    {
+        "name": "Redmi 智能电视 A系列 ",
+        "print": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/93b55d27cd6e2100c25611eb828396ae.png"
+    },
+    {
+        "name": "量子点电视",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/da1680fb62238cb5b01998d80fc34e25.png"
+    },
+    {
+        "name": "Redmi 智能电视 X系列 ",
+        "print": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/070b329c18c1ab167df2a42564a67813.png"
+    },
+    {
+        "name": "小米电视大师 82英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b8f12c8d20878e88b66047ef32566e48.png"
+    },
+    {
+        "name": "小米电视5 Pro 65英寸 ",
+        "print": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d096389e19ba6b79b324b7d0acfab7ca.png"
+    },
+    {
+        "name": "小米电视5 55英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png"
+    },
+    {
+        "name": "小米全面屏电视E43K",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/319700f48d268f522664e1fc876b0044.png"
+    },
+    {
+        "name": "金属全面屏电视 ",
+        "print": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d219d8b9c4a74eda4ae6c0222d194cd2.png"
+    },
+    {
+        "name": "小米盒子 ",
+        "print": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/554a4f8ea0c2c3ed19d843bea7321203.jpg"
+    },
+    {
+        "name": "大师电视 65英寸 OLED ",
+        "print": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png"
+    },
+    {
+        "name": "小米电视5 Pro 75英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/da1680fb62238cb5b01998d80fc34e25.png"
+    },
+    {
+        "name": "小米电视4A 60英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1df560d16cc983b0f34d24fc484bd697.png"
+    },
+    {
+        "name": "Redmi 智能电视 X55",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/070b329c18c1ab167df2a42564a67813.png"
+    },
+    {
+        "name": "小米全面屏电视 ",
+        "print": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8aeae36f5d088f22c84b8953bd0d08b4.jpg"
+    },
+    {
+        "name": "电视音箱",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/381acfeddeebcce4720ea7b8e481252f.png"
+    },
+    {
+        "name": "Redmi 智能电视MAX98",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d649ec3d7d14da7090e396d56b7cc92.jpg"
+    },
+    {
+        "name": "小米电视5 75英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png"
+    },
+    {
+        "name": "小米电视4A 70英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6797917392e912577135d9eb8ad92f1f.png"
+    },
+    {
+        "name": "小米电视4S 75英寸",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8cb5791161d8b25897f60385f0ec7ab2.png"
+    },
+    {
+        "name": "小米壁画电视 ",
+        "print": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5732e8f317eb86bfcb174fbb49d00c4a.jpg"
+    },
+    {
+        "name": "激光投影电视",
+        "print": " https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4fa264c15d3829e6de4283a552651e22.png"
+    }
 
 ]
